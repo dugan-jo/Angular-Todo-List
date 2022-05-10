@@ -4,19 +4,31 @@
       "id": 2,
       "text": "Vet appointment",
       "day": "May 7th at 11:30am",
-      "reminder": false
-    },
-    {
-      "id": 2,
-      "text": "Vet appointment",
-      "day": "May 7th at 11:30am",
       "reminder": true
     },
     {
-      "text": "asdfa",
-      "day": "sdf",
+      "text": "Dr Appointment",
+      "day": "June 19, 2022",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Vet Appointment ",
+      "day": "July 6, 2022",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Vacation",
+      "day": "May 29, 2022 - June 05, 2022",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Tesla Delivery",
+      "day": "July 8, 2022",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
